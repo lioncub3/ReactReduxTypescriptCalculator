@@ -1,0 +1,3 @@
+export const CALC_ADD_SYMBOL = 'CALC_ADD_SYMBOL';
+export const CALC_GET_RESULT = 'CALC_GET_RESULT';
+export const CALC_CLEAR_TEXT = 'CALC_CLEAR_TEXT';

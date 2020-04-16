@@ -1,0 +1,17 @@
+.calc-button {
+    color: #000000;
+    padding: 0 13px;
+    border: #efefef 1px solid;
+    border-radius: 3px;
+    background-color: #efefef;
+    width: 100%;
+    line-height: 34px;
+}
+
+.calc-button:hover {
+    background-color: #c6e3ff;
+}
+
+.calc-button:active {
+    border: 1px solid #d3d3d3;
+}
